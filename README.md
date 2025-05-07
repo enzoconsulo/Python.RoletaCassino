@@ -27,6 +27,8 @@ Este projeto é uma simulação de roleta de cassino desenvolvida em Python com 
 ## Estrutura de Diretórios
 
 Python.RoletaCassino/
+
 ─ roleta.py          # Script principal com toda a lógica e interface
+
 ─ README.md          # Documentação do projeto
-─ .gitignore         # Arquivos e pastas ignorados pelo Git
+
